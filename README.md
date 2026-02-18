@@ -44,7 +44,7 @@ Applications with support of IPTV streams.
 - [PublicIPTV](https://publiciptv.com/) - A free online IPTV stream player that lets you explore and watch live TV from around the world.
 - [SupercamBR](http://listas.supercambr.com.br/) - Free online iptv web player with channels from all over the world.
 - [Wizju IPTV Player](https://github.com/j2jstudio/wizju-iptv-player) - Lightweight, modern, browser‑based IPTV player built with Vue 3, Vite, TypeScript, Pinia, TailwindCSS and Video.js.
-- [CieloWeb - M3U Magic](https://tools.cieloweb.com/tools/m3u-magic) Privacy focused web player that allows you to open and stream M3U and M3U8 playlists directly in your browser, built for speed, simplicity, and full client side playback.
+- [CieloWeb - M3U Magic](https://tools.cieloweb.com/tools/m3u-magic) - Privacy focused web player that allows you to open and stream M3U and M3U8 playlists directly in your browser, built for speed, simplicity, and full client side playback.
 - [hlstv.app](https://hlstv.app) – Fast, easy to use iptv player with curated local & remote URL upload capabilities.
 - [M3U IPTV](https://m3u-ip.tv/browser/) - Stream your M3U playlist with our free, easy-to-use IPTV player app.
 - [Moviepex](https://moviepex.com)- Super fast IPTV player with family profiles, great UX/UI, IMDB integration, football matches of day integration, and TV remote navigation.
