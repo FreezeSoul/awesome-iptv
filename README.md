@@ -54,7 +54,6 @@ Applications with support of IPTV streams.
 - [RockMyM3u](https://rockmym3u.com/) - M3U & Xtream Editor, create playlists and more online.
 - [m3u.in](https://m3u.in/) - Create, edit, sort channels/groups in m3u playlists online, merge two or more playlists into one, automatic updates, access logs, short links and more.
 - [IPTV Link Search](http://tonkiang.us/) - Search for public IPTV channels.
-- [EBK IPTV](https://ebkiptv.live/) - Watch online with pre-defined lists, share custom lists, add custom URLs, channel/country search, and PWA support.
   
 #### Windows
 
@@ -273,6 +272,7 @@ Applications with support of IPTV streams.
 - [Famelack](https://famelack.com/) - Watch free live world TV from anywhere.
 - [Free-TV/IPTV](https://github.com/Free-TV/IPTV) - M3U playlist for free TV channels around the World.
 - [FreeTV](https://freetv.fun/) - Stream global TV channels instantly without registration.
+- [EBK IPTV](https://ebkiptv.live/) - Watch online with pre-defined lists, share custom lists, add custom URLs, channel/country search, and PWA support.
 
 ## Channel Datasets
 
