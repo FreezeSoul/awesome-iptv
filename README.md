@@ -272,6 +272,7 @@ Applications with support of IPTV streams.
 - [Famelack](https://famelack.com/) - Watch free live world TV from anywhere.
 - [Free-TV/IPTV](https://github.com/Free-TV/IPTV) - M3U playlist for free TV channels around the World.
 - [FreeTV](https://freetv.fun/) - Stream global TV channels instantly without registration.
+- [EBK IPTV](https://ebkiptv.live/) - Watch online with pre-defined lists, share custom lists, add custom URLs, channel/country search, and PWA support.
 
 ## Channel Datasets
 
